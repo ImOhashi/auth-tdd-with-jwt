@@ -1,0 +1,16 @@
+{
+  "name": "auth-tdd-with-jwt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ImOhashi/auth-tdd-with-jwt",
+  "author": "ImOhashi <leonardoohashi.mkt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
+}
